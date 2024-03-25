@@ -1,0 +1,23 @@
+*{
+    margin: 0;padding: 0;
+    list-style: none;
+    outline: none;
+}
+.section1{
+    border: 2px solid;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.nav-list{
+    display: flex;
+    gap: 20px;
+}
