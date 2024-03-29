@@ -6,17 +6,7 @@
 .max-width-1440{
     max-width: 1440px;
     margin: 0 auto;
-    border: 2px solid red;
-}
-.section1{
-    border: 2px solid;
-    width: 1390px;
-height: 80px;
-gap: 0px;
-/* border: 0px 0px 1px 0px; */
-opacity: 0px;
-margin-left: 80px;
-
+    border: 2px solid rgb(64, 21, 21);
 }
 
 nav{
