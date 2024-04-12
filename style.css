@@ -171,3 +171,33 @@ margin-top: 94px;
 margin-right: 89px;
 margin-bottom: 93px;
 }
+.section3 img{
+  width: 301px;
+  height: 378px;
+  border-radius: 0px 0px 0px 10px;
+  opacity: 0px;
+  margin-bottom: 70px;
+  
+}
+.section3-imgs{
+  /* border: 2px solid; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}
+.sec3p{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 39.84px;
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 44px;
+  
+
+}
