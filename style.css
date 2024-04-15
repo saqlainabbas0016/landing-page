@@ -201,3 +201,10 @@ margin-bottom: 93px;
   
 
 }
+
+#boximg{
+  border: 3px solid blue;
+  border-radius: 15px;
+  background-color: #5459FF1A;
+  border: transparent;
+}
