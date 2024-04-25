@@ -228,3 +228,6 @@ line-height: 22.89px;
 text-align: center;
 
 }
+h2{
+  display: flex;
+}
