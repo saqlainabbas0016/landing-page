@@ -238,3 +238,30 @@ border: 2px solid red;
   align-items: center;
   margin-top: 81px;
 }
+.sec4-boxs{
+
+}
+.box1{
+  /* display: flex; */
+  width: 410px;
+height: 262px;
+border: 1px 0px 0px 0px;
+border: 1px solid #E3DDDD;
+
+}
+.box1head{
+  background-color: #EEEFFF;
+  border-radius:50px ;
+  align-items: center;
+height: 72px;
+  display: flex;
+margin: 0 auto;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+
+}
+.box1center{
+  align-items: center;
+  margin-left: 20px;
+}
