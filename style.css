@@ -239,6 +239,9 @@ border: 2px solid red;
   margin-top: 81px;
 }
 .sec4-boxs{
+  align-items: center;
+  display: flex;
+  justify-content: center;
 
 }
 .box1{
@@ -262,6 +265,9 @@ opacity: 0px;
 
 }
 .box1center{
-  align-items: center;
+  margin-top: 15px;
   margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
